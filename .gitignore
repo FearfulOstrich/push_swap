@@ -1,0 +1,5 @@
+tests/
+*.a
+pipex
+*.DS_Store
+*.o
